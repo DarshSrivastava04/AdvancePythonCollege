@@ -1,5 +1,3 @@
-# Library Management System using Object-Oriented Programming
-
 # ---------------- Book Class ---------------- #
 
 class Book:
