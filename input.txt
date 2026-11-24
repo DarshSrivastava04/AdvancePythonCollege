@@ -1,0 +1,4 @@
+Python is a popular programming language.
+It supports file handling operations.
+This is the third line of the sample file.
+This is the fourth line.
